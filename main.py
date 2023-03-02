@@ -25,7 +25,7 @@
 # k = int(input("Введите элемент: "))
 # m = abs(k - list_1[0])                         # abs() Python возвращает абсолютное значение и удаляет отрицательный знак
 # number = list_1[0]
-# for i in range(1, len(list_1)):
+# for i in range(1, len(list_1))
 #     if m > abs(k - list_1[i]):
 #         m = abs(k - list_1[i])
 #         number = list_1[i]
